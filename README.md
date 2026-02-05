@@ -1,4 +1,4 @@
-# **📊 Prodigy Infotech Internship – Task 1**  
+# **📊 Prodigy InfoTech Internship – Task 1**  
 # **Data Visualization using Python**
 
 ---
