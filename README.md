@@ -70,9 +70,8 @@ pip install pandas matplotlib seaborn
 
 
 ### **2. Run the notebook and script**
-python -task1_visualization.py
-
-       -task1_visualization.ipynb
+python - task1_visualization.py
+       - task1_visualization.ipynb
 
 ---
 
